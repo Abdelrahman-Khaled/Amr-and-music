@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529128033 source:f:\problem solving\amr and music\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
